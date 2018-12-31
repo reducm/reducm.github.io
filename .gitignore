@@ -76,3 +76,4 @@ app/assets/dist/
 
 database.config.js
 run/*.json
+/.tweet-cache

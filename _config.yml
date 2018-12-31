@@ -21,11 +21,20 @@ kramdown:
   input: GFM
 paginate: 9
 permalink: /:year/:month/:day/:title/
-gems:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-feed
-  - jemoji
+# gems:
+#   - jekyll-paginate
+#   - jekyll-sitemap
+#   - jekyll-feed
+#   - jekyll-twitter-plugin
+#   - jemoji
+plugins:
+  [
+    "jekyll-twitter-plugin",
+    "jekyll-paginate",
+    "jekyll-sitemap",
+    "jekyll-feed",
+    "jemoji",
+  ]
 collections:
   wiki:
     output: true
