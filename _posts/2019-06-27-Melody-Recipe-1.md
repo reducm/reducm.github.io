@@ -29,6 +29,7 @@ typora-root-url: ../../reducm.github.io
 4. 搅拌搅拌搅拌
 5. 放进冰箱
 6. 第二天涂在烤好的面包里，好味！可以用锡纸包着像她，运动完再吃
+7. 来自Mel的简洁总结: "1/4只洋葱切细粒，3只薯仔，4个鸡蛋，蛋黄酱100g，黑椒、盐随个人口味"
 
 ![eggj2](/assets/eggj2.jpeg)
 ![eggj1](/assets/eggj1.jpeg)
