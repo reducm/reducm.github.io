@@ -52,3 +52,14 @@ typora-root-url: ../../reducm.github.io
 3. 红酒啤酒白葡萄酒
 
 ![egan](/assets/egan.jpeg)
+
+## 滑蛋虾仁炒蛋
+
+1. 冷藏虾仁无所谓，解冻后根据大小喜好切一下
+2. 拿几个蛋打在一起搅拌一下，加点盐和黑胶
+3. 油下锅，先爆红虾仁
+4. 大火落鸡蛋，均匀撒满整个锅，一凝固就关火
+
+![xiaegg2](/assets/xiaegg2.jpeg)
+![xiaegg1](/assets/xiaegg1.jpeg)
+
